@@ -160,6 +160,13 @@ ClientBin/
 *.publishsettings
 node_modules/
 bower_components/
+**/wwwroot/lib/
+
+!**/wwwroot/scripts/
+**/wwwroot/scripts/*
+!**/wwwroot/scripts/templates
+!**/wwwroot/scripts/ts
+
 
 # RIA/Silverlight projects
 Generated_Code/
