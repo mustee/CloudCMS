@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "CloudCMS",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-print": "1.1.0",
+    "gulp-shell": "0.4.1",
+    "gulp-tsc": "0.9.4",
+    "rimraf": "2.2.8",
+    "run-sequence": "1.1.0"
+  }
+}
